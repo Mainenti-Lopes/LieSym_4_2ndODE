@@ -1,4 +1,4 @@
-**Lie Symmetry Condition - 2nd order ODE
+**Lie Symmetry Condition - 2nd order ODE**
 
 Autor: Mainenti-Lopes, I.
 
